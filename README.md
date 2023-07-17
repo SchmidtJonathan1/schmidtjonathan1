@@ -8,6 +8,7 @@ You can find me at [![LinkedIn][1.1]][1]
 ![Static Badge](https://img.shields.io/badge/Tools-Ansible-black?style=plastic&logo=ansible&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Tools-Docker-blue?style=plastic&logo=docker&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-blue?style=plastic&logo=kubernetes&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Tools-GitLab-orange?style=plastic&logo=gitlab&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=python&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Code-Powershell-blue?style=plastic&logo=powershell&logoColor=black&labelColor=white)
 
